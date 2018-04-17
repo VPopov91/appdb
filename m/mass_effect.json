@@ -1,0 +1,29 @@
+{
+  "uid": "eb160975",
+  "title": "Mass Effect",
+  "youtube": [
+    "DINdtTcvO-4",
+    "fexyejKwhwQ",
+    "ERHKS72P1I4",
+    "sO_0kk-_DXM",
+    "u_9OtfbyTqg"
+  ],
+  "platforms": [
+    {
+      "platform": "psn"
+    },
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "ps3"
+    },
+    {
+      "platform": "xbox360"
+    },
+    {
+      "platform": "steam",
+      "app_id": "17460"
+    }
+  ]
+}
