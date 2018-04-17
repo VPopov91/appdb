@@ -1,0 +1,28 @@
+{
+  "uid": "39b2d163",
+  "title": "Assassin's Creed II",
+  "youtube": [
+    "Vw5s3AbCPOA",
+    "00vT734svtk",
+    "UuQRFdaozJs",
+    "FODnouugGQI"
+  ],
+  "platforms": [
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "ios"
+    },
+    {
+      "platform": "ps3"
+    },
+    {
+      "platform": "xbox360"
+    },
+    {
+      "platform": "steam",
+      "app_id": "33230"
+    }
+  ]
+}
