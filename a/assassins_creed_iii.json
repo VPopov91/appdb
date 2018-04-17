@@ -1,0 +1,31 @@
+{
+  "uid": "7f5d5b4c",
+  "title": "Assassin's Creed III",
+  "youtube": [
+    "sJuwA5U1qgo",
+    "MbtWoSR6A7Y",
+    "BD8Ao3NJbkg",
+    "VIFEIXZDAsM"
+  ],
+  "platforms": [
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "wiiu"
+    },
+    {
+      "platform": "ps3"
+    },
+    {
+      "platform": "xbox360"
+    },
+    {
+      "platform": "steam",
+      "app_id": "208480"
+    },
+    {
+      "platform": "uplay"
+    }
+  ]
+}
