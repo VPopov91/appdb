@@ -1,0 +1,28 @@
+{
+  "uid": "16238f37",
+  "title": "Fallout",
+  "youtube": [
+    "SaFpihHuOe4",
+    "2Rp8Ot9KNE8",
+    "TIivmk5Lats",
+    "nROGm37frFY",
+    "OHu1fjJfxts",
+    "f1GKFvLKPbw",
+    "tvrbJ7xqDEs"
+  ],
+  "platforms": [
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "mac"
+    },
+    {
+      "platform": "dos"
+    },
+    {
+      "platform": "steam",
+      "app_id": "38400"
+    }
+  ]
+}
