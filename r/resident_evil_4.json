@@ -1,0 +1,39 @@
+{
+  "uid": "01eae042",
+  "title": "Resident Evil 4",
+  "youtube": [
+    "sMmRp9QRMhg",
+    "85Z8uMpHXAk",
+    "M9yD_ckixSg",
+    "VMgrmzRIUAI"
+  ],
+  "platforms": [
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "ios"
+    },
+    {
+      "platform": "ps3"
+    },
+    {
+      "platform": "ps4"
+    },
+    {
+      "platform": "xbox360"
+    },
+    {
+      "platform": "ngc"
+    },
+    {
+      "platform": "xboxone"
+    },
+    {
+      "platform": "wii"
+    },
+    {
+      "platform": "ps2"
+    }
+  ]
+}
