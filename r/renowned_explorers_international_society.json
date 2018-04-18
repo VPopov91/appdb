@@ -1,0 +1,31 @@
+{
+  "uid": "7d5316fb",
+  "title": "Renowned Explorers: International Society",
+  "youtube": [
+    "eQObUu2Xlsk",
+    "dhp68OAfoyk",
+    "ikeGyIGeZec",
+    "pZLaC9Z-r3M",
+    "3VcF_U08SQI",
+    "IEdwheILlmo",
+    "3fHm8YgjH38"
+  ],
+  "platforms": [
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "steam--1"
+    },
+    {
+      "platform": "mac"
+    },
+    {
+      "platform": "linux"
+    },
+    {
+      "platform": "steam",
+      "app_id": "296970"
+    }
+  ]
+}
