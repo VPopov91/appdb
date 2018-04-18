@@ -1,0 +1,46 @@
+{
+  "uid": "968fd7b8",
+  "title": "Oxenfree",
+  "youtube": [
+    "TH9RISkaUzM",
+    "Jtx8i5_Wb90",
+    "-tPLPA-Hdos",
+    "z5vwkcBHFko",
+    "DmJbClXNl5g",
+    "hamBPQ5blRI",
+    "lU4XD5p5-WA"
+  ],
+  "platforms": [
+    {
+      "platform": "psn"
+    },
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "ios"
+    },
+    {
+      "platform": "steam--1"
+    },
+    {
+      "platform": "mac"
+    },
+    {
+      "platform": "ps4"
+    },
+    {
+      "platform": "xboxone"
+    },
+    {
+      "platform": "linux"
+    },
+    {
+      "platform": "nintendo-switch"
+    },
+    {
+      "platform": "steam",
+      "app_id": "388880"
+    }
+  ]
+}
