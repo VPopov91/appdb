@@ -1,0 +1,25 @@
+{
+  "uid": "51d8d6cd",
+  "title": "The Stanley Parable",
+  "youtube": [
+    "SGngPVNh4F0",
+    "F_nF9vFh4MY",
+    "M1QKuEopIkI",
+    "VuaMJ25wz9A"
+  ],
+  "platforms": [
+    {
+      "platform": "nes"
+    },
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "mac"
+    },
+    {
+      "platform": "steam",
+      "app_id": "221910"
+    }
+  ]
+}
