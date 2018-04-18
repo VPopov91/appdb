@@ -1,0 +1,27 @@
+{
+  "uid": "2e6791df",
+  "title": "Hearthstone",
+  "youtube": [
+    "hNqPbnC-znU",
+    "Q7ylyNTjWAA",
+    "xsm86rR8YA0",
+    "UUo6UvaNh4o",
+    "uogSOehbNIY",
+    "P773TiUdBVE",
+    "M_ptDCzCzyw"
+  ],
+  "platforms": [
+    {
+      "platform": "android"
+    },
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "ios"
+    },
+    {
+      "platform": "mac"
+    }
+  ]
+}
