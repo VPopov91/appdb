@@ -1,0 +1,24 @@
+{
+  "uid": "b65c57f2",
+  "title": "Halo Wars: Definitive Edition",
+  "youtube": [
+    "xlIXPrTq7cE",
+    "9nSYZWd9gQc",
+    "NnPqoBYZwWA",
+    "LtHlaw9zoRU",
+    "j-8BGN7_VKI",
+    "aOstjat5VnY"
+  ],
+  "platforms": [
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "xboxone"
+    },
+    {
+      "platform": "steam",
+      "app_id": "459220"
+    }
+  ]
+}
