@@ -1,0 +1,44 @@
+{
+  "uid": "6ed1dc53",
+  "title": "Skullgirls",
+  "youtube": [
+    "ceNG_sBDTLA",
+    "RU-OpD0Euaw",
+    "H8hmaPdcdvg",
+    "sinqoQbCJ5A",
+    "eEw6HeUlulM"
+  ],
+  "platforms": [
+    {
+      "platform": "android"
+    },
+    {
+      "platform": "psn"
+    },
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "ios"
+    },
+    {
+      "platform": "steam--1"
+    },
+    {
+      "platform": "xla"
+    },
+    {
+      "platform": "mac"
+    },
+    {
+      "platform": "ps3"
+    },
+    {
+      "platform": "linux"
+    },
+    {
+      "platform": "steam",
+      "app_id": "245170"
+    }
+  ]
+}
