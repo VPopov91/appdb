@@ -1,0 +1,30 @@
+{
+  "uid": "84a5a276",
+  "title": "Nuclear Throne",
+  "youtube": [
+    "LqX7FP1fsU4",
+    "bw3_YdZgUrY",
+    "dWNjjo_Yevc",
+    "x3ntEDaqM7k",
+    "kZ85gcwuLvY",
+    "av_J0dmnJIQ"
+  ],
+  "platforms": [
+    {
+      "platform": "psn"
+    },
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "psvita"
+    },
+    {
+      "platform": "ps4"
+    },
+    {
+      "platform": "steam",
+      "app_id": "242680"
+    }
+  ]
+}
